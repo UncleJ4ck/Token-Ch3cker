@@ -11,6 +11,3 @@ COPY requirements.txt .
 RUN pip install --trusted-host pypi.python.org -r requirements.txt
 
 CMD ["python3", "index.py"]
-
-# docker build -t token-ch3ker:latest .
-# docker run --name checker token-ch3ker
