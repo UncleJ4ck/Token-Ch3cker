@@ -20,6 +20,13 @@ cd Token-Ch3ker
 pip install -r requirements.txt
 ```
 
+## Docker
+
+```docker
+docker build -t token-ch3ker:latest .
+docker run --name checker token-ch3ker
+```
+
 # Usage
 ```
 python3 index.py
