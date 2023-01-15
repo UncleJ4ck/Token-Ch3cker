@@ -21,9 +21,9 @@ pip install -r requirements.txt
 ```
 
 # Usage
-
+```
 python3 index.py
-
+```
 > and wait for results, you will find the results in the json files
 
 # TO-DO
