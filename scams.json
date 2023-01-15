@@ -52,5 +52,11 @@
         "token": "0xac8c21b8343de43a7400cf5f097d1051c955a92e",
         "symbol": "WLK",
         "Liquitidy": "548946829.460979603"
+    },
+    {
+        "name": "Quarter Shiba Inu",
+        "token": "0x1e3a7756cac194eee3f20c12385184a84b17eb0a",
+        "symbol": "SHIB0.25",
+        "Liquitidy": "12027848.98154377"
     }
 ]
