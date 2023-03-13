@@ -24,7 +24,7 @@ pip install -r requirements.txt
 
 ```docker
 docker build -t token-ch3ker:latest .
-docker run --name checker token-ch3ker
+docker run --rm -it --name checker token-ch3ker
 ```
 
 # Usage
